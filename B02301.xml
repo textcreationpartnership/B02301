@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Companies in joynt-stock unnecessary and inconvenient. Free trade to India in a regulated company, the interest of England. / Discours'd in a letter to a friend.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02301</idno>
+            <idno type="STC">Wing C5580A</idno>
+            <idno type="STC">ESTC R233609</idno>
+            <idno type="EEBO-CITATION">51617702</idno>
+            <idno type="OCLC">ocm 51617702</idno>
+            <idno type="VID">175191</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02301)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175191)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2719:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Companies in joynt-stock unnecessary and inconvenient. Free trade to India in a regulated company, the interest of England. / Discours'd in a letter to a friend.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,]</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Dated at end: 10 Octob. 1691.</note>
+                  <note>Reproduction of the original in the Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Early works to 1800.</term>
+               <term>Free trade --  England --  Early works to 1800.</term>
+               <term>Stock companies --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  India --  Early works to 1800.</term>
+               <term>India --  Commerce --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175191:1" rendition="simple:additions"/>
+            <head>COMPANIES IN JOYNT-STOCK Unneceſſary and Inconvenient: Free Trade to INDIA IN <hi>A Regulated Company,</hi> The INTEREST of <hi>ENGLAND.</hi>
+            </head>
+            <head type="sub">
+               <hi>Diſcours'd in a</hi> LETTER <hi>to a</hi> FRIEND.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN Obedience to your Commands I ſhall here give you my Opinion as to Trade managed in Joynt-Stocks, and particularly that to <hi>India.</hi>
+            </p>
+            <p>All Joynt-Stocks in Trade are in themſelves a Monopoly, though ſome are more extenſive than others, as taking in more Perſons at the firſt Conſtituti<g ref="char:EOLhyphen"/>on, but they come in Time, by Purchaſe or otherwiſe into few Hands, as is that of the preſent <hi>Eaſt-India</hi> Company, the <hi>Affrican</hi> Company; and the ſame may be ſaid of the <hi>Eaſt-India</hi> Company of <hi>Holland.</hi> The <hi>Jews</hi> and a few of the <hi>States,</hi> and other rich Men having the largeſt Share of that Stock, which to my Knowledge for that and other Reaſons, is there accounted a Grievance. All Trade ought to be Free and under no Conſtraint, this being every Subjects Natural Right; Joynt-Stocks and other Limitations of Trade, tend chiefly to the enriching of a few, in prejudice to the general Good of a Nation, Subjecting it to a double Tax. For ſuch Monopoliſts buy the native Growths and Manufactures cheap at Home, and ſell the Foreign, which they Import Dear to the Subject; which Practice in both kinds can be prov'd upon the Preſent <hi>Eaſt-India</hi> and <hi>Affrican</hi> Companies, and I am inclin'd to believe, that the late raiſing Pepper in <hi>England</hi> ſold formerly at Six Pence and Seven Pence <hi>per</hi> Pound, to Sixteen Pence <hi>per</hi> Pound, may have been a Contrivance between ſome great Men concern'd in the <hi>Dutch Eaſt-India</hi> Company, and others of ours here, which ſame Practice I doubt not was us'd to raiſe Callicoes and other <hi>Eaſt-India</hi> Goods ſold in <hi>Holland,</hi> and here at this time for double and moſt of them treble the uſual and former Prizes, and ſo in many other particulars may Joynt-Stocks be prov'd to be a Tax upon the People, whereas a Free Market for Buying and Selling would exempt them from it.</p>
+            <p>This, <hi>Sir,</hi> is ſufficient to let you know that Joynt-Stocks in Trade, are a National Evil, and that however they may have been uſeful in the Infancy of Forreign Trade, and permitted in proſpect of a future National Benefit: Yet at this time when we
+<pb n="2" facs="tcp:175191:2"/> of this Kingdome are arrived at the utmoſt Degree of Experience in Commerce with all Countreys, even the moſt diſtant, and that our Mariners are the moſt expert in the Univerſe, and we having Stock enough to carry on, as well as to increaſe our Trade and Navigation; I cannot ſee any Reaſon why the Subject ſhould be clog'd by Joynt-Stocks, to the general Damage of the Nation, as I have before made evident.</p>
+            <p>Having given my Thoughts of Joynt-Stocks as Combinations and Monopolies in general, I ſhall now conſider them in relation to the future Management of the Trade to <hi>India,</hi> which I ſhould be glad could be left free to all, as moſt Trades in <hi>Europe</hi> are, but few, allowing that to be feaſible, I ſhall endeavour to demonſtrate (ſince a Joynt-Stock hath and will always have ſuch ill Conſequences) that this Trade as that to <hi>Turkey</hi> and others, may be manag'd by a regulated Company, whereby all the Miſchiefs of a Joynt-Stock will be remov'd, and very great Advantages accrue to the Publick; And the better to explain my ſelf, I will lay before you what I have met with in favour of a Joynt-Stock againſt a Company regulating a free Trade to <hi>In<g ref="char:EOLhyphen"/>dia,</hi> with my Anſwers to them.</p>
+            <div n="1" type="question">
+               <head>Queſtion I. <hi>Under a Regulation how can the Forts and Iſlands of St.</hi> Helena <hi>and</hi> Bom<g ref="char:EOLhyphen"/>bay, <hi>Fort St.</hi> George <hi>and</hi> Bencoelen <hi>now in the Companies Poſſeſſion be paid for and after<g ref="char:EOLhyphen"/>terwards maintained?</hi>
+               </head>
+               <p>
+                  <hi>Anſwer</hi> I. A regulated Company muſt have Power to make Levies on Ships that go to <hi>India</hi> either here or there, to raiſe Money for Freedoms, and if Occaſion be, by Loans at Intereſt or <hi>Gratis,</hi> of all that will be of the Company, ſufficient for the purchaſing the preſent Companies dead Stock, as Amunition, &amp;c. according to an equitable Valuation by indifferent Men choſen on both ſides; and for the future ſup<g ref="char:EOLhyphen"/>port of their ordinary and extraordinary Charge, even as the <hi>Turkey</hi> Company do for the Maintaining an Embaſſadour at the <hi>Ottoman</hi> Court, Conſuls, Miniſters and other Officers at their ſeveral Ports of Trade there, as well as at home; which together with Preſents made frequently to the <hi>Grand Signi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r</hi> and his Miniſters, amounts yearly to a great many Thouſand Pounds, and as much as perhaps would bear the needful Charge in <hi>India;</hi> for in reality Fort St. <hi>George</hi> and <hi>Bombay</hi> are of little or no uſe to the Compa<g ref="char:EOLhyphen"/>ny or Trade of <hi>India,</hi> and a great many think they had better quitt them, as the <hi>Dutch</hi> have lately <hi>Policat,</hi> a ſtrong Place near Fort St. <hi>George,</hi> and the only Fort they had any where in all the <hi>Mogul</hi>'s Dominions, not thinking it worth their Charge to keep it. For while they are in Peace they will be protected by the <hi>Mogul</hi> in his Coun<g ref="char:EOLhyphen"/>try, and if they ſhould again return to the Folly of Warring with that Prince, they cannot defend or keep them againſt one of the greateſt Monarchs in the World.</p>
+            </div>
+            <div n="2" type="question">
+               <head>Queſt. II. <hi>What Security can be had of thoſe People in India when you truſt them with your Money for making Inveſtments.</hi>
+               </head>
+               <p>
+                  <hi>Anſw.</hi> II. The ſame ſecurity as the preſent Company have, the Honeſty of the Peo<g ref="char:EOLhyphen"/>ple and the Protection of the Government; for the Company truſted moſt, and their greateſt Inveſtments were made where they had no Forts, as at all the ſubordinate Fa<g ref="char:EOLhyphen"/>ctories on the Coaſt of <hi>Cormandell,</hi> in <hi>Bengall,</hi> and at <hi>Surat,</hi> and the Factories under that Preſidency, and though great Sums have been truſted to thoſe People, yet there is no Example of their having Committed any Violence upon our Perſons or Eſtates, but we have had always Juſtice done us, and better Treatment then from <hi>European</hi> Govern<g ref="char:EOLhyphen"/>ments, and in <hi>Turkey</hi> great Sums upon meer Pretences have been extorted from that Company by Tyrannical <hi>Baſhaws, Cadies,</hi> and other Officers Civil and Military.</p>
+            </div>
+            <div n="3" type="question">
+               <head>Queſt. III. <hi>Will it not be a means to ruine the Trade and leſſen the Exportation of our Ma<g ref="char:EOLhyphen"/>nufactures and Growths?</hi>
+               </head>
+               <p>
+                  <hi>Anſw.</hi> III. It's evident the Merchants of <hi>England</hi> are greatly inclin'd in all their Commerce to export our own Manufactures, and vend them at reaſonable Advance, as to <hi>Turkey</hi> under that regulated Company, ſo much Cloth is annually carried as can poſſibly be there diſpoſed of, and in time of Peace eſpecially, it hath been ſold ſo cheap, that we have almoſt excluded from that Trade, the <hi>French</hi> and <hi>Dutch,</hi> and the ſame upon a Regulation will be done in <hi>India,</hi> much better than by a Joynt-Stock: For particulars can and will be obliged to fell for little Profit, and the preſent <hi>Eaſt-India</hi> Company as an Excuſe for their having lately permitted <hi>Armenians</hi> and other particu<g ref="char:EOLhyphen"/>lar Merchants to Export to <hi>India</hi> our Manufactures paying them 12 <hi>per Cent.</hi> for the Licenſe. alledg'd it was for the improving that Trade.</p>
+            </div>
+            <div n="4" type="question">
+               <head>Queſt. IV. <hi>Will not the Natives raiſe the Price of their Goods, and lower the Price of ours?</hi>
+               </head>
+               <p>
+                  <hi>Anſw.</hi> IV. This Argument may as well be urged to have the Trade to every parti<g ref="char:EOLhyphen"/>cular Country in the World in Joynt-Stocks; but Traffick muſt have its natural courſe, ſometime the People of thoſe Places where we have a Trade ſell us their Commodi<g ref="char:EOLhyphen"/>ties
+<pb n="3" facs="tcp:175191:2" rendition="simple:additions"/> Dear, and buy ours of us Cheap, according to the Quantities of Goods to be Purchas'd of, and Sold to them; at another time, when a good Market hath made them provide largely of thoſe ſorts of Goods, and leſs Demand is for them, then we Buy Cheap, and carrying fewer of our Commodities, we Sell the Dearer: So Dear Goods beget Cheap, and Cheap beget Dear, every Man in this as all other Trades, will take care of his own Intereſt and uſe his utmoſt Skill, and make Proviſion of Stock in the Country to Buy his Goods, and give out his Money in the interval of Ship<g ref="char:EOLhyphen"/>ping, to be returned him by the next, as is practiſed in <hi>Turkey,</hi> and moſt other Foreign Trades, and particularly to the <hi>Spaniſh</hi> and <hi>Portugal American</hi> Plantations, whereby the <hi>Engliſh</hi> Trading in their Ships are two and often three Years out of their Money; however the cheaper we Sell our Manufactures and Growths, the more we ſhall intro<g ref="char:EOLhyphen"/>duce the Expence of them and prevent our Neighbours in their Competition with us.</p>
+            </div>
+            <div n="5" type="question">
+               <head>Queſt. V. <hi>How will you maintain the Pepper Trade on</hi> Sumatra <hi>and North Coaſt of</hi> India <hi>and</hi> Malabar.</head>
+               <p>
+                  <hi>Anſw.</hi> V. It's true the Company have a ſmall Fort at <hi>Bencoelen</hi> which may as well be maintain'd by a regulated Company (as hath been already prov'd) as by a Joynt-Stock; but the Place is ſo very unhealthful, and kills ſo many of our Sea-men and of the ſmall Garriſon and Factory that reſide there, that I believe it hath not, nor ever will countervail this Loſs, nor the Expence of keeping it; eſpecially ſince vaſt Quan<g ref="char:EOLhyphen"/>tities of Pepper may be procured on the North Coaſt of <hi>India</hi> and <hi>Malabar,</hi> where the preſent <hi>Eaſt-India</hi> Company have no Forts; but Factories may be ſettled there, and there is no reaſon to believe that the <hi>Raja's</hi> or Princes of thoſe Countreys will give better Treatment to a Joynt-Stock Company than to a regulated one, which will much more encreaſe Trade in their Countries.</p>
+            </div>
+            <div n="6" type="question">
+               <head>Queſt. VI. <hi>How will you ſupport the Trade to</hi> India, <hi>if the</hi> Dutch <hi>or any others ſhould at<g ref="char:EOLhyphen"/>tempt by force or fraud to out you of it, or defend it in Caſe of a War with them, or any other</hi> European?</head>
+               <p>
+                  <hi>Anſw.</hi> VI. The preſent Company have ſadly experienced, that making War is a very chargeable and pernicious way of Righting themſelves in <hi>India,</hi> becauſe of the great diſtance of place; and for any Injury that may be done us there, by the <hi>Dutch,</hi> or other <hi>Europeans,</hi> ſatisfaction muſt be obtained at home; and 'tis to be preſumed, that our Government will be always as ready to ſupport the Subject, and obtain Repa<g ref="char:EOLhyphen"/>ration in the Caſe of a Regulated Company, (which is more National, and will very much add to its Revenues) as of a Joynt-Stock, which will always have the ſame need of it, or any other of our Trades; and in War there may be Convoys, as to <hi>America,</hi> and other remote Countries, or we may ſend out Ships of Force only, which may go out, and return home in Fleets, as the Regulated Company ſhall direct, and as the <hi>Turkey</hi> Company practiſe, when in the General Meetings of all the Traders, they appoint what Number of Ships, and of what Force ſhall unite and proceed to the ſeveral Ports of <hi>Turkey.</hi>
+               </p>
+            </div>
+            <div n="7" type="question">
+               <head>Queſt. VII. <hi>Will it not be very difficult to keep in good order, and govern the ſeveral Facto<g ref="char:EOLhyphen"/>ries, and Merchants that ſhall reſide in</hi> India?</head>
+               <p>
+                  <hi>Anſw.</hi> VII. Every Factory may have Conſuls, with Powers given them, by Virtue of a Legal Authority to govern their reſpective Factories, and be always anſwerable to the Regulated Company, for their well or ill Adminiſtration; beſides, it will be very uſeful to maintain an Embaſſador at the <hi>Mogul</hi>'s Court, by which Methods the <hi>Turkey</hi> Company have govern'd their ſeveral Factories with great Oeconomy.</p>
+            </div>
+            <div n="8" type="question">
+               <head>Queſt. VIII. <hi>Will not Interlopers go out from, and return to other Countries in</hi> Europe, <hi>and ſo avoid thoſe Impoſitions that a Regulated Company must neceſſarily lay on all Ships and Goods for their ſupport?</hi>
+               </head>
+               <p>
+                  <hi>Anſw.</hi> VIII. When all that will may be free of the Company, and upon very eaſie Terms may Trade with what Stock they pleaſe to all parts of <hi>India,</hi> it will not be worth any body's while to attempt Interloping; and as great Powers may be given to a Re<g ref="char:EOLhyphen"/>gulated Company, as any other, to prevent it; and indeed ſuch an Authority may be much ſafer given into their hands than to a Joynt-Stock.</p>
+            </div>
+            <div n="9" type="question">
+               <head>Queſt. IX. <hi>The</hi> Dutch <hi>are eſteemed the best Judges of Trade, and its Advantages, of any other People, and do not they carry on their Trade to</hi> India <hi>and</hi> Guinea <hi>in Joynt-Stocks.</hi>
+               </head>
+               <p>
+                  <hi>Anſw.</hi> IX. The Trade to <hi>India</hi> and <hi>Guinea</hi> in <hi>Holland</hi> had both of them their Origi<g ref="char:EOLhyphen"/>nal in the Minority of that State, when they ſtrugled with the mighty Power of <hi>Spain,</hi> in a long and bloody War; and the <hi>Spaniards</hi> and <hi>Portugueſe,</hi> who were then under the ſame Monarch, being Maſters of the whole Trade of both the <hi>Indies</hi> and <hi>Guinea,</hi> the States, to weaken their Enemies, encourag'd Merchants to ſend Ships into thoſe Seas, by giving them Commiſſions of War; and they effectually did it, by taking conſide<g ref="char:EOLhyphen"/>rable
+<pb n="4" facs="tcp:175191:3"/> Booties from them, and augmenting their Force, had great ſucceſs at Sea, and ſeiz'd on ſome of their Fortifications. This brought the Merchants of <hi>Amſterdam</hi> to joyn with thoſe of other Towns; whereby proſecuting their Trade, and Privateering ſeveral Years, they became very conſiderable; when the States politickly united them farther, that they might yet be more ſerviceable to annoy their Enemies, and brought the whole Trade and War (for ſo it was) to both <hi>Indies</hi> and <hi>Guinea,</hi> into Joynt-Stocks, and gave them mighty Priviledges, eſpecially to the <hi>East-India</hi> Company, that of pay<g ref="char:EOLhyphen"/>ing no Cuſtoms in or out, which they enjoy to this day, and this was the reaſon ſo long ago, that induced the States to ſettle theſe two Companies; and not, that they thought it was beſt ſo to do, for the general good of the Trade, or that it could not be as well managed by a Regulation, if their Circumſtances had been otherwiſe, but as an Engine of War, and Depredation on their Enemies; and the <hi>East-India</hi> Company being thus Eſtabliſht, as it were by Conqueſt, and thereby incumbring themſelves with a great many Fortreſſes in the <hi>South Sea</hi> and <hi>Ceylon,</hi> to maintain to themſelves the <hi>Spice Iſlands,</hi> there ſeems a kind of neceſſity upon them, to drive that Trade in a Joynt-Stock; for indeed their Eſtabliſhment in <hi>India</hi> is another Commonwealth, which howſoever uſeful the States may think it to them, and that becauſe many of them are con<g ref="char:EOLhyphen"/>cerned in the Stock, they ſtill keep it upon the old Foundation, yet there is nothing more evident, than that this Company make no profits by the Trade, for their Actions riſe and fall every Week, and are now ſold at about 500 <hi>per Cent,</hi> but whoever buys, or hath for ſeveral Years paſt bought at theſe Rates, hardly make 4 <hi>per Cent per Annum</hi> of their Money, for they ſeldom receive Dividends, and when they do, they are ve<g ref="char:EOLhyphen"/>ry ſmall, and theſe ſuſpected and judg'd by moſt to be rather out of their Quick-Stock, than real profit; for they owe, and continually take up vaſt Sums at Intereſt at home as well as all over <hi>India:</hi> So, as I have ſaid, the Company get nothing by the Trade, whatever advantages the States may imagine they draw from it, and therefore I think we have no cauſe to envy them their manner of carrying it on; nor indeed could we imitate them, were it ever ſo deſirable. And this is a certain truth, that from the Year 1653, to 1656, while our Trade to <hi>India</hi> lay open to all, the <hi>Holland East-India</hi> Com<g ref="char:EOLhyphen"/>pany ſunk greatly in their Stock and Credit; for we under-ſold them in all <hi>East-India</hi> Commodities, and brought home Spice in ſpight of them, procured at <hi>Macaſſar,</hi> and elſe-where; which gave them ſuch apprehenſions of loſing their Trade, that to pre<g ref="char:EOLhyphen"/>vent it (as I have been inform'd by good hands) they employ'd ſome Perſons to in<g ref="char:EOLhyphen"/>fluence <hi>Oliver Cromwel</hi> to eſtabliſh this preſent Joynt-Stock; which he did in 1656, and they gave a Pention to two of the then Committee of 500 <hi>l.</hi> a Year each, to pre<g ref="char:EOLhyphen"/>vent our poſſeſſing <hi>Polleron,</hi> or any other of the Spice Iſlands we had a juſt Claim to.—wherefore it is not to be wondred, that the <hi>Dutch East-India</hi> Company are at this time ſo very apprehenſive that we ſhall lay open the Trade to <hi>India,</hi> ſince they will ſo ſenſibly feel the effects of it, by our vaſt Importation and Exportations of all Commodities, and the affording them at ſo much a cheaper Rate than they can poſſibly, beſides all Combinations with Colleagues here to inhance the Prices will be remov'd, as well as the opportunity of Bribing in order to do good Offices.</p>
+               <p>The ſame Conſequences happen'd to the <hi>Holland Guinea</hi> or <hi>West-India</hi> Company, in the Year 1660, when we had that Trade alſo open, their Stock was then worth but 8 <hi>per Cent.</hi> but no ſooner was the Trade to <hi>Guinea</hi> limited here by a Joynt-Stock, but that Company began to flouriſh again, and their Actions are now worth 80 <hi>per Cent.</hi> So that whatſoever reaſon the <hi>Dutch</hi> have for the keeping the Trade to the <hi>Indies</hi> and <hi>Guinea</hi> in Joynt-Stocks; the only Monopolies they have it is evident, that it will be infinitely more to the advantage of this Nation to carry them on by Regulated Com<g ref="char:EOLhyphen"/>panies; Which will certainly have all theſe good effects.</p>
+               <p>It will increaſe the Exportation of our own Manufactures and Growths.</p>
+               <p>We ſhall be able to furniſh <hi>Europe</hi> with all the Commodities of thoſe Countries, much cheaper than any other People, eſpecially the <hi>Dutch.</hi>
+               </p>
+               <p>It will add greatly to our Navigation.</p>
+               <p>The Crown will gain much by the Cuſtoms.</p>
+               <p>And it will in every point be of infinite advantage to the Publick, as well as to all Adventurers and Traders, whoſe Right and Property it is, that the Commerce and Traffick by Sea, be as unlimited and free as the Inland Trade.</p>
+               <p>
+                  <hi>All which, I doubt not, Sir, will convince You, and all reaſonable, diſintereſted Men, That Joynt-Stocks in Trade, and particularly that of</hi> Eaſt-India, <hi>are of evil Con<g ref="char:EOLhyphen"/>ſequence to the Kingdom.</hi>
+               </p>
+               <closer>
+                  <date>10 <hi>Octob.</hi> 1691.</date>
+               </closer>
+               <pb facs="tcp:175191:4" rendition="simple:additions"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
